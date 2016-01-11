@@ -1,3 +1,3 @@
 # notes
 
-> Notes for collaborating on open events and open source
+> Practical links for collaborating on open events and open source
